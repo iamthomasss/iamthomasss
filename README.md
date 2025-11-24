@@ -69,11 +69,9 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/drive/folders/17Ao7e3bXze93eVPxkrkRwn1vsTIhb5tI?usp=sharing">
+  <img src="https://img.shields.io/badge/-Windows%20Forensics%20%26%20Incident%20Response-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" alt="Windows Forensics Certificate Badge" style="border: none;">
+</a>
 </div>
 
 ## Projects
