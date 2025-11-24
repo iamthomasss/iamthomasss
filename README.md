@@ -3,7 +3,7 @@
 
 ## Brief Introduction
 
-I have recently graduated from the Centre for Cybersecurity - Cybersecurity Career Kickstart+ Program, gaining hands-on proficiency in SOC Analysis, Network Security, Penetration Testing, and Windows Forensics. 
+I have recently completed the 'Centre for Cybersecurity - Cybersecurity Career Kickstart+ Program', gaining hands-on proficiency in SOC Analysis, Network Security, Penetration Testing, and Windows Forensics. 
 
 ## Objective
 
