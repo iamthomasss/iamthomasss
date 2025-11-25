@@ -4,10 +4,12 @@
 ## Brief Introduction
 
 I have recently completed the 'Centre for Cybersecurity - Cybersecurity Career Kickstart+ Program', gaining hands-on proficiency in SOC Analysis, Network Security, Penetration Testing, and Windows Forensics. 
+<br />
 
 ## Objective
 
 With my completion in the Cybersecurity Career Kickstart+ Program, I am looking forward to transition into the field of cybersecurity, specifically aiming to land an entry-level role as a AppSec Engineer. 
+<br />
 
 ## Skills
 🕷️ Exploitation & Post-Exploitation <br />
@@ -19,7 +21,8 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 📊 Security Information & Event Management (SIEM) <br />
 ⚙️ System Administration (Windows & Linux) <br />
 🔎 Windows Forensics <br />
-
+<br />
+<br />
 
 ## Tools
 
@@ -30,6 +33,7 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
     <img src="https://img.shields.io/badge/-tcpdump-2E3440?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
+<br />
 
 ### Network Research & Reconnaissance
 <div>
@@ -37,19 +41,21 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
     <img src="https://img.shields.io/badge/-Shodan-0B3D91?&style=for-the-badge&logo=shodan&logoColor=white" />
     <img src="https://img.shields.io/badge/-WHOIS-4CAF50?&style=for-the-badge&logo=internet-explorer&logoColor=white" />
 </div>
+<br />
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+<br />
 
 ### Firewall & Network Defence
 <div>
     <img src="https://img.shields.io/badge/-pfSense-1D5180?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-950400?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
-
+<br />
 
 ### Exploitation & Post-Exploitation
 <div>
@@ -57,7 +63,7 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-CC0000?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
-
+<br />
 
 ### Windows Forensics
 <div>
@@ -65,7 +71,8 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
     <img src="https://img.shields.io/badge/-Registry%20Explorer-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Volatility-800080?&style=for-the-badge&logoColor=white" />
 </div>
-
+<br />
+<br />
 
 ## Certifications
 <div>
@@ -73,6 +80,8 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
   <img src="https://img.shields.io/badge/-Windows%20Forensics%20%26%20Incident%20Response-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" alt="Windows Forensics Certificate Badge" style="border: none;">
 </a>
 </div>
+<br />
+<br />
 
 ## Projects
 - <a href="https://github.com/iamthomasss/Simple-Port-Scanner">Simple Port Scanner</a>
