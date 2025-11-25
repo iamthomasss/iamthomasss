@@ -11,15 +11,15 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 
 ## Skills
 
-| Skill                                                  | Associated Project         |
-|--------------------------------------------------------|----------------------------|
-| Network Scanning & Analysis                            | <a href="https://github.com/iamthomasss/Simple-Port-Scanner">Simple Port Scanner</a>|
-| Network Research & Reconnaissance                      | <a href="https://google.com">Detection Lab</a>|
-| Security Information & Event Management (SIEM)         | SOC Automation Lab|
-| Firewall & Network Defence                             | SOC Automation Lab|
-| Exploitation & Post-Exploitation                       | SOC Automation Lab|
-| Windows Forensics                                      | SOC Automation Lab|
-| Python Scripting                                       | <a href="https://github.com/iamthomasss/Simple-Port-Scanner">Simple Port Scanner</a>|
+| Skill                                                  | 
+|--------------------------------------------------------|
+| Network Scanning & Analysis                            | 
+| Network Research & Reconnaissance                      | 
+| Security Information & Event Management (SIEM)         | 
+| Firewall & Network Defence                             | 
+| Exploitation & Post-Exploitation                       | 
+| Windows Forensics                                      | 
+| Python Scripting                                       | 
 
 ## Tools
 
