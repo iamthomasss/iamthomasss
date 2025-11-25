@@ -10,16 +10,16 @@ I have recently completed the 'Centre for Cybersecurity - Cybersecurity Career K
 With my completion in the Cybersecurity Career Kickstart+ Program, I am looking forward to transition into the field of cybersecurity, specifically aiming to land an entry-level role as a AppSec Engineer. 
 
 ## Skills
+🕷️ Exploitation & Post-Exploitation <br />
+🛡️ Firewall & Network Defence <br />
+🚨 Incident Response & Threat Hunting <br />
+🔍 Network Research & Reconnaissance <br />
+📡 Network Scanning & Analysis <br />
+💻 Scripting (Linux & Python) <br />
+📊 Security Information & Event Management (SIEM) <br />
+⚙️ System Administration (Windows & Linux) <br />
+🔎 Windows Forensics <br />
 
-| Skill                                                  | 
-|--------------------------------------------------------|
-| Network Scanning & Analysis                            | 
-| Network Research & Reconnaissance                      | 
-| Security Information & Event Management (SIEM)         | 
-| Firewall & Network Defence                             | 
-| Exploitation & Post-Exploitation                       | 
-| Windows Forensics                                      | 
-| Python Scripting                                       | 
 
 ## Tools
 
