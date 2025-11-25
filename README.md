@@ -75,5 +75,5 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/iamthomasss/Simple-Port-Scanner">Simple Port Scanner</a>
 - SOC Automation Project
