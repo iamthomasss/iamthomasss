@@ -76,4 +76,4 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 
 ## Projects
 - <a href="https://github.com/iamthomasss/Simple-Port-Scanner">Simple Port Scanner</a>
-- SOC Automation Project
+- <a href="https://github.com/iamthomasss/Breach-Point">Penetration Testing Project</a>
