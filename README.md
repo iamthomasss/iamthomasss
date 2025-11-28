@@ -65,6 +65,8 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 </div>
 <br />
 
+![TryHackMe Badge](assets/tryhackme-badge.png)
+
 ### Windows Forensics
 <div>
     <img src="https://img.shields.io/badge/-FTK%20Imager-FF8C00?&style=for-the-badge&logoColor=white" />
