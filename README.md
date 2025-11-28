@@ -65,11 +65,6 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 </div>
 <br />
 
-### TRYHACKME
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/iThomas.png)
-
-
 ### Windows Forensics
 <div>
     <img src="https://img.shields.io/badge/-FTK%20Imager-FF8C00?&style=for-the-badge&logoColor=white" />
@@ -77,6 +72,11 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
     <img src="https://img.shields.io/badge/-Volatility-800080?&style=for-the-badge&logoColor=white" />
 </div>
 <br />
+<br />
+
+### TRYHACKME
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/iThomas.png)
 <br />
 
 ## Certifications
