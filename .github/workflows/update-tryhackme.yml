@@ -13,6 +13,6 @@ uses: actions/checkout@v2
 uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
 with:
 image_path: './assets/tryhackme-badge.png'
-username: iThomas
-user_id: 1326678
+username: 'iThomas'
+user_id: '1326678'
 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
