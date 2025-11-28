@@ -67,7 +67,7 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 
 ### TRYHACKME
 
-![TryHackMe Badge](assets/tryhackme-badge.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/iThomas.png)
 
 
 ### Windows Forensics
