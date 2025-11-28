@@ -65,7 +65,10 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 </div>
 <br />
 
-![TryHackMe Badge](assets/tryhackme-badge.png)
+### TRYHACKME
+<div>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1326678" style='border:none;'></iframe>
+</div>
 
 ### Windows Forensics
 <div>
