@@ -76,7 +76,7 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 
 ### TRYHACKME
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/iThomas.png"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/iThomas.png" alt="Your Image Badge" />
 <br />
 <br />
 
