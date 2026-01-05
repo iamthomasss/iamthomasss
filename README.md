@@ -75,7 +75,7 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 <br />
 
 ### TRYHACKME
-![tryhackme stats](https://raw.githubusercontent.com/iThomas/iThomas/master/assets/thm_propic.png)
+![tryhackme stats](https://github.com/iamthomasss/iamthomasss/blob/main/assets/thm_propic.png)
 
 <br />
 <br />
