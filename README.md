@@ -75,7 +75,7 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 <br />
 
 ### TRYHACKME
-![TryHackMe Stats](https://tryhackme-stats-badge.vercel.app/api?username=iThomas&theme=dark)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1326678" style='border:none;'></iframe>
 
 <br />
 <br />
