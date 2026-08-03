@@ -76,7 +76,6 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 
 ### TRYHACKME
 ![TryHackMe Badge](assets/thm_propic.png)
-
 <br />
 <br />
 
@@ -85,6 +84,7 @@ With my completion in the Cybersecurity Career Kickstart+ Program, I am looking 
 <a href="https://www.credly.com/badges/c8f90393-14c7-4783-a747-7f9eeee003c7">
     <img src="assets/gcih-badge.png" alt="GCIH Badge" width="150" style="border: none;">
 </a>
+<br />
 <br />
 
 
