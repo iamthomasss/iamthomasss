@@ -3,12 +3,12 @@
 
 ## Brief Introduction
 
-I have recently completed the 'Centre for Cybersecurity - Cybersecurity Career Kickstart+ Program', gaining hands-on proficiency in SOC Analysis, Network Security, Penetration Testing, and Windows Forensics. 
+GCIH-certified incident handler and completed the Centre for Cybersecurity -- Cybersecurity Career Kickstart+ Program with hands-on proficiency in Windows forensics, memory analysis, log investigation, network analysis and basic malware triage. 
 <br />
 
 ## Objective
 
-With my completion in the Cybersecurity Career Kickstart+ Program, I am looking forward to transition into the field of cybersecurity, specifically aiming to land an entry-level role as a AppSec Engineer. 
+Targeting DFIR and SOC analyst roles where I can apply hands-on experience in Windows forensics, log analysis, and detection engineering to investigate security incidents, establish root cause and write the report that closes them. 
 <br />
 
 ## Skills
