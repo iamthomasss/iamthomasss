@@ -103,4 +103,4 @@ Targeting DFIR and SOC analyst roles where I can apply hands-on experience in Wi
 
 
 ## Labs Writeup
-- <a href="https://github.com/iamthomasss/blue-team-writeup">Blue Team Writeup</a>
+- <a href="https://github.com/iamthomasss/blue-team-writeups">Blue Team Writeups</a>
