@@ -100,3 +100,7 @@ Targeting DFIR and SOC analyst roles where I can apply hands-on experience in Wi
 - <a href="https://github.com/iamthomasss/Simple-Port-Scanner">Simple Port Scanner</a>
 - <a href="https://github.com/iamthomasss/Breach-Point">Penetration Testing Project</a>
 - <a href="https://github.com/iamthomasss/Breach-Trail">Windows Forensic Project</a>
+
+
+## Labs Writeup
+- <a href="https://github.com/iamthomasss/blue-team-writeup">Blue Team Writeup</a>
